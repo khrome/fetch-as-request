@@ -1,0 +1,24 @@
+{
+  "name": "fetch-as-request",
+  "version": "1.0.0",
+  "description": "Use request but with polymorphic-request goodies",
+  "author": "Abbey Hawk Sparrow <@khrome> (http://patternweaver.com)",
+  "contributors": [],
+  "bugs": {
+    "url": "https://github.com/khrome/fetch-as-request/issues"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/khrome/fetch-as-request.git"
+  },
+  "main": "request.js",
+  "devDependencies": {},
+  "peerDependencies": {
+      "request": "*",
+  },
+  "dependencies": {
+    "form-data": "^3.0.0",
+    "polymorphic-request":"^0.1.1"
+  }
+}
