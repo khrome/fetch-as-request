@@ -15,7 +15,7 @@
   "main": "request.js",
   "devDependencies": {},
   "peerDependencies": {
-      "request": "*",
+      "fetch": "*"
   },
   "dependencies": {
     "form-data": "^3.0.0",
